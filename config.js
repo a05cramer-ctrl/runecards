@@ -1,11 +1,11 @@
 window.RUNECARDS_CFG = {
   NAME: "RuneCards",
   TICKER: "RUNECARDS",
-  CA: "",
+  CA: "D5QWMzohLu2d48NCy3uaT4cNBfoHVX1ZerXsKRdfpump",
   CHAIN: "solana",
-  PAD: "stonkfun",   // "stonkfun" or "pumpfun"
+  PAD: "pumpfun",    // "stonkfun" or "pumpfun"
   PAIR: "",          // quote asset if paired on StonkFun, else empty
-  X: "",
+  X: "https://x.com/RuneCardsclub",
   BUY: "",
   CHART: "",
   BURN: 50000        // $RUNECARDS burned per casket
